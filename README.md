@@ -1,6 +1,6 @@
 # CNode Client Collection
 
-CNode客户端收藏
+CNode 客户端收藏
 
 ## 这个组织用来做什么?
 
